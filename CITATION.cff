@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the fixed Zenodo evidence dataset."
+type: dataset
+title: "Independently checked VLSAT-3 certificates and ground models"
+authors:
+  - family-names: "Takarashima"
+    given-names: "Kenshirou"
+doi: "10.5281/zenodo.24299444"
+url: "https://zenodo.org/records/24299444"
